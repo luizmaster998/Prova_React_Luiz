@@ -9,16 +9,16 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           {/* Edit <code>src/App.js</code> and save to reload. */}
-          Prova React Luiz 20/10/2020
+          Prova React Luiz 20/0/2020
         </p>
-        {/* <a
+        <a
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
           Learn React
-        </a> */}
+        </a>
       </header>
     </div>
   );
